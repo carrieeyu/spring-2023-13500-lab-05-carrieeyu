@@ -1,7 +1,9 @@
 #include <iostream>
 #include "funcs.h"
 
-int main(){
+//output
+
+int main(){	
 
   //Task A; is divisible
   std:: cout << "The divisibility of 100 and 25 is " << isDivisibleBy(100,25) << std:: endl;

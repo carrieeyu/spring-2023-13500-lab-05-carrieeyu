@@ -2,6 +2,8 @@
 #include "doctest.h"
 #include "funcs.h"
 
+//tests
+
 //Task A
 
 TEST_CASE("Divisible numbers"){

@@ -5,7 +5,7 @@
 //If n is divisible by d, the function should return true, otherwise return false.
 bool isDivisibleBy(int n, int d){
   
-  if ((n%d) == 0){ //divisibility
+  if ((n%d) == 0){ //checking for divisibility
     return true; 
     }
   return false; 

@@ -1,5 +1,7 @@
 #pragma once
 
+//functions
+
 //Task A
 bool isDivisibleBy(int n, int d);
 
